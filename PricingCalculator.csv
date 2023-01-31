@@ -1,6 +1,6 @@
-Log Types,Number,EPS ,GB/Day,EPS ,GB/Day
+LogTypes,Number,EPS,GbPerDay,EPS ,GB/Day
 Network Firewalls (Layer 7 Internal),1,240,9.86,240,9.86
-EPS: 240   GB/Day: 9.86  Network Firewalls (Layer 7 - DMZ),1,100,4.02,100,4.02
+EPS: 240Â Â Â GB/Day: 9.86Â Â Network Firewalls (Layer 7 - DMZ),1,100,4.02,100,4.02
 Network Firewalls (Internal),1,240,4.83,240,4.83
 Network Firewalls (DMZ),1,50,0.51,50,0.51
 Windows Servers - HIGH EPS (Event Log),1,7,0.2,7,0.2
@@ -18,4 +18,4 @@ Other Security Devices,1,5,0.3,5,0.3
 Network IPS/IDS,1,100,2.41,100,2.41
 Network VPN / SSL VPN,1,2,0.05,2,0.05
 Network Web Proxy,1,20,1.05,20,1.05
-" HyperVisor (ESXi, Hyper-V etc)",1,15,1.21,15,1.21
+"Â HyperVisor (ESXi, Hyper-V etc)",1,15,1.21,15,1.21
