@@ -19,3 +19,4 @@ Network IPS/IDS,1,100,2.41,100,2.41
 Network VPN / SSL VPN,1,2,0.05,2,0.05
 Network Web Proxy,1,20,1.05,20,1.05
 " HyperVisor (ESXi, Hyper-V etc)",1,15,1.21,15,1.21
+New Line
