@@ -1,6 +1,6 @@
 LogTypes,Number,EPS,GbPerDay,EPS ,GB/Day
 Network Firewalls (Layer 7 Internal),1,240,9.86,240,9.86
-EPS: 100   GB/Day: 9.86  Network Firewalls (Layer 7 - DMZ),1,100,4.02,100,4.02
+EPS: 66   GB/Day: 9.86  Network Firewalls (Layer 7 - DMZ),1,100,4.02,100,4.02
 Network Firewalls (Internal),1,240,4.83,240,4.83
 Network Firewalls (DMZ),1,50,0.51,50,0.51
 Windows Servers - HIGH EPS (Event Log),1,7,0.2,7,0.2
