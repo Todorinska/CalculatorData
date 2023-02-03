@@ -3,7 +3,6 @@ Network Firewalls (Layer 7 Internal),1,240,9.86,240,9.86
 EPS: 66   GB/Day: 9.86  Network Firewalls (Layer 7 - DMZ),1,100,4.02,100,4.02
 Network Firewalls (Internal),1,240,4.83,240,4.83
 Network Firewalls (DMZ),1,50,0.51,50,0.51
-
 Windows Servers - MED EPS (Event Log),1,3,0.09,3,0.09
 Windows Servers - LOW EPS (Event Log),1,1,0.03,1,0.03
 Network Switches,1,2,0.01,2,0.01
